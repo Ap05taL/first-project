@@ -1,0 +1,10 @@
+.section-title {
+    line-height: 1.15;
+    font-size: 60px;
+    font-style: 600;
+    font-family: 'Inter2';
+    width: 60%;
+    margin-top: 100px;
+    margin-bottom: -5px;
+    text-align: center;
+}

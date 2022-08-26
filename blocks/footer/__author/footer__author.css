@@ -1,0 +1,9 @@
+.footer__author {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    line-height: 25px;
+    font-weight: 18px;
+    font-style: normal;
+    font-family: "Inter1";
+}

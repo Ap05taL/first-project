@@ -1,0 +1,10 @@
+.header__title {
+    margin-left: 64px;
+    vertical-align: auto;
+    width: 730px;
+    font-family: 'Inter3';
+    line-height: 96px;
+    font-size: 102px;
+    font-weight: 600;
+    z-index: 2;
+}

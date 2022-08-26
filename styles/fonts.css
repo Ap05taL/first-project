@@ -1,0 +1,22 @@
+@font-face {
+    src:
+    url('../inter/Inter-Regular.woff2') format('woff2'),
+    url('../inter/Inter-Regular.woff') format('woff');
+    font-family: 'Inter1';
+    
+  }
+
+  @font-face {
+    src: 
+    url('../inter/Inter-Bold.woff2') format('woff2'),
+    url('../inter/Inter-Bold.woff') format('woff');
+    font-family: 'Inter2';
+    
+  }
+
+  @font-face {
+    src: 
+    url('../inter/Inter-SemiBold.woff2') format('woff2'),
+    url('../inter/Inter-SemiBold.woff') format('woff');
+    font-family: 'Inter3';
+  }
